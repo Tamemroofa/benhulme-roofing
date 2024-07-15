@@ -1315,7 +1315,7 @@ section {
 }
 
 .about .about-img {
-  min-height: 600px;
+  min-height: 350px;
   background-size: cover;
   background-position: center;
 }
